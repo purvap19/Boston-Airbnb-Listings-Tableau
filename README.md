@@ -15,4 +15,6 @@
 <h3> Dashboard </h3>
 <p> <strong> <i> <a href="https://public.tableau.com/app/profile/purva.patel8557/viz/BostonAirbnbListingsProject/Dashboard1">View interactive dashboard on Tableau </a></i> </strong>
   
-![Boston Airbnb Listings](https://github.com/purvap19/Boston-Airbnb-Listings-Tableau/assets/108096020/2d14068d-511e-4e46-91c8-69bf4d927739)
+![Airbnb Listings Dashboard](bostonairbnb.png)
+  
+  
